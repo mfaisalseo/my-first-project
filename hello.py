@@ -1,2 +1,6 @@
 print("Hello GitHub!")
 print("My first project using VS Code")
+print("Hello GitHub!")
+print("My first project using VS Code")
+print("I am learning Python")
+print("This is my first GitHub update")
